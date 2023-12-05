@@ -1,0 +1,10 @@
+{
+  "name": "awesome-applied-data-science",
+  "version": "1.0.0",
+  "description": "A curated list of awesome things related to Applied Data Science",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.1.0"
+  }
+}
