@@ -55,7 +55,7 @@
 ## Repositories
 
 - [datascience-cookie-cutter](https://github.com/raoulg/datascience-cookiecutter)
-- [Polars cheat sheet](https://github.com/FranzDiebold/polars-cheat-sheet)
+- [polars-cheat-sheet](https://github.com/FranzDiebold/polars-cheat-sheet)
 
 ## Sites
 
