@@ -71,4 +71,7 @@
 
 ## Wikipedia
 
+- [Empiricism](https://en.m.wikipedia.org/wiki/Empiricism)
 - [No free lunch theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
+- [Paradigm](https://en.m.wikipedia.org/wiki/Paradigm)
+- [Theory](https://en.m.wikipedia.org/wiki/Theory)
