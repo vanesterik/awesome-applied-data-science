@@ -103,6 +103,6 @@
 
 ## Todo's
 
-- [ ] Go through #general channel
-- [x] Go through #statistics channel
-- [ ] Go through #tech-python channel
+- [ ] Process [#general](https://masterapplied-cru8364.slack.com/archives/C05QYHZA9QC) channel
+- [x] Process [#statistics](https://masterapplied-cru8364.slack.com/archives/C05UDL5GSEN) channel (timestamp: 2024-02-13 10:13:00)
+- [ ] Process [#tech-python](https://masterapplied-cru8364.slack.com/archives/C05R8Q2CCKB) channel
