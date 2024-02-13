@@ -99,6 +99,8 @@
 - [Paradigm](https://en.m.wikipedia.org/wiki/Paradigm)
 - [Theory](https://en.m.wikipedia.org/wiki/Theory)
 
+---
+
 ## Todo's
 
 - [ ] Go through #general channel
